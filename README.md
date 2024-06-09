@@ -12,7 +12,7 @@ TLDR: A novel representation rehearsal-based domain incremental learning approac
 ## Setup:
 
 OUTPUT_DIR: Directory to save output contents.<br />
-Update the 'base_data_path()` in `utils/conf.py` with the folder where the dataset is stored.<br />
+Update the `base_data_path()` in `utils/conf.py` with the folder where the dataset is stored.<br />
 
 ### Datasets supported: <br />
 
