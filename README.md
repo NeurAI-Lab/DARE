@@ -36,3 +36,15 @@ python main.py --model maxd_ema --dataset domain-net --img_size 64 --num_tasks 6
 ## Cite Our Work:
 
 If you find the code useful in your research please consider citing our paper.
+
+<pre>
+@misc{jeeveswaran2024gradualdivergenceseamlessadaptation,
+      title={Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method}, 
+      author={Kishaan Jeeveswaran and Elahe Arani and Bahram Zonooz},
+      year={2024},
+      eprint={2406.16231},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2406.16231}, 
+}
+</pre>
