@@ -20,7 +20,7 @@ Update the `base_data_path()` in `utils/conf.py` with the folder where the datas
 * DN4IL
 
 
-### BiRT Training Script:
+### DARE Training Script:
 
 To train DARE on iCifar-20 dataset, 5 tasks, with buffer size 50: 
 ```
