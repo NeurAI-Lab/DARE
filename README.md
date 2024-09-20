@@ -1,6 +1,6 @@
-# BiRT
+# DARE
 
-This is the official repository of the ICML, 2024 paper "[Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method](https://arxiv.org/abs/2305.04769)" by [Kishaan Jeeveswaran](https://scholar.google.com/citations?user=JcqW3_QAAAAJ&hl=en), [Elahe Arani](https://scholar.google.com/citations?user=e_I_v6cAAAAJ&hl=en) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ).
+This is the official repository of the ICML, 2024 paper "[Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method](https://arxiv.org/abs/2406.16231)" by [Kishaan Jeeveswaran](https://scholar.google.com/citations?user=JcqW3_QAAAAJ&hl=en), [Elahe Arani](https://scholar.google.com/citations?user=e_I_v6cAAAAJ&hl=en) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ).
 
 We extended the [Mammoth](https://github.com/aimagelab/mammoth) framework with our method (DARE/DARE++)
 
